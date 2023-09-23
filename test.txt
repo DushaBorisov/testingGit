@@ -6,3 +6,4 @@ Line from andrey 1
 new line
 
 line 1 main
+line 2 main
